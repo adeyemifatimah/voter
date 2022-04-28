@@ -1,3 +1,12 @@
-#eligible ,#non-eligible{
+#non-eligible{
     display: none;
+}
+#eligible{
+    background-image: url(../img/APC-vs-PDP.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: none;
+}
+body {
+  
 }
